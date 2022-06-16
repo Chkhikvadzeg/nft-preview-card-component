@@ -49,8 +49,8 @@ body {
 .card-properties {
     display: flex;
     justify-content: space-between;
-    margin: 24px 0 16px;
-    padding-bottom: 24px;
+    margin-bottom:16px;
+    padding: 24px 0;
     border-bottom: 1px solid #2E405A;
 }
 
