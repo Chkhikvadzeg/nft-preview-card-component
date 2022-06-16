@@ -1,4 +1,4 @@
-# ეს არის პრიველი ჩელენჯის ჩემეული ამოხსნა[QR code component challenge on Frontend Mentor]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)).
+# ეს არის მეორე ჩელენჯის ჩემეული ამოხსნა[QR code component challenge on Frontend Mentor]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)).
 
 - მთლიან სექციას სიმაღლე მივეცი 100% და ბექგრაუნდი მივეცი მოცემული ფერი.
 - ამ კონკრეტული ჩელენჯისთვის გამოვიყენე Flexbox, card-ის გასაცენტრად.
