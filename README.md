@@ -1,4 +1,4 @@
-# This is a solution of this challange => [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+# This is a solution of this challange => [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 - First of all, I gave the whole section 100% of viewport height and background to light blue.
 - For this challange I used FlexBox for centering a card.
