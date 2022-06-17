@@ -24,16 +24,17 @@ body {
     border-radius: 15px;
 }
 
-.card-img {
-    width: 302px;
-    aspect-ratio: 1;
-    align-self: center;
-    border-radius: 8px;
-}
-
 .card-images {
     position: relative;
     cursor: pointer;
+}
+
+
+.card-img {
+    width: 302px;
+    height: 100%;
+    align-self: center;
+    border-radius: 8px;
 }
 
 .card-images::after {
