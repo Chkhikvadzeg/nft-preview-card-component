@@ -1,12 +1,12 @@
-# ეს არის მეორე ჩელენჯის ჩემეული ამოხსნა[QR code component challenge on Frontend Mentor]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)).
+# This is a solution of this challange => [QR code component challenge on Frontend Mentor]([https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)).
 
-- მთლიან სექციას სიმაღლე მივეცი 100% და ბექგრაუნდი მივეცი მოცემული ფერი.
-- ამ კონკრეტული ჩელენჯისთვის გამოვიყენე Flexbox, card-ის გასაცენტრად.
-- შემდეგ ასევე flex კონტეინერი გავხადე თვითონ card და მიმართულება მივეცი column.
-- ასევე card-ს მივეცი padding-ები და ბექგრაუნდი გავალურჯე, ასევე დავუმატე ჩრდილები, როგორც დიზაინშია მოცემული.
-- შემდეგ გავსტილე სათაური და ტექსტი და მივანიჭე დაშორებები ერთმანეთისგან. 
-- ასევე ცალკე შევქმენი მონაცემებისთვის დივ ელემენტი, რომელშიც ჩავსვი ფასი და დედლაინი. ამ დივ ელემენტსაც მივეცი display: flex დაშორება კი მასში მოთავსებულ ორ დივ ელემენტს შორის გავაკეთე justify-content: space-between-ის საშუალებით.
-- ზემოთნახსენებ ორ დივ ელემენტში მოვათავსე სურათები და ტექსტი. ხოლო დივები გავხადე flex, რათა გამესწორებინა ერთ ხაზზე.
-- ასევე მთლიან დივს მივეცი ქვემო padding და border გავუკეთე მხოლოდ დაბლით, რადგან დიზაინშიც ასეა მოცემული.
-- ბოლოს კი გავაკეთე კიდევ ერთი დივ ელემენტი სადაც ჩავსვი იუზერის ფოტო და სახელი. ესეც რათქმაუნდა flex კონტეინერად ვაქციე.
-- რადგან სახელი სხვა ტექსტთან შედარებით სხვა ფერის იყო, ჩავსვი span თეგში და გავსტილე სხვანაირად.
+- First of all, I gave the whole section 100% of viewport height and background to light blue.
+- For this challange I used FlexBox for centering a card.
+- Then, I also make Flex container card and gave direction to column.
+- Also I gave some padding to card, make it blue and give it shadows as it is in the design.
+- Then, give some styles to the title and margins from top and bottom.
+- After this I created another div element for data and put price and deadline in it. Also, I give this div element display: flex and justify content: space-between.
+- In the price and deadline div elements I put images and make those divs flex containers. also align them on the same line.
+- I gave some padding bottom to this div and make a border bottom because there is a bottom border in the design too.
+- Lastly, I also created another div element where I put user name and photo. I give them flexibility option too.
+- Because of the name is different from the text before, I put it in tha span tag and give a different style to it.
