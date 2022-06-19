@@ -10,3 +10,5 @@
 - I gave some padding bottom to this div and make a border bottom because there is a bottom border in the design too.
 - Lastly, I also created another div element where I put user name and photo. I give them flexibility option too.
 - Because of the name is different from the text before, I put it in tha span tag and give a different style to it.
+
+# There is a Github Page, where you can see the result => [QR code component challenge result on github pages](https://chkhikvadzeg.github.io/nft-preview-card-component/)
